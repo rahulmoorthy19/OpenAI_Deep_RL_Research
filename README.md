@@ -3,7 +3,7 @@
 This is a Repository is designed to progress upon the the OpenAI road to being a RL Researcher module [link](https://spinningup.openai.com/en/latest/spinningup/spinningup.html). Along with this, it can also act as a code reference for future aspiring RL researchers. The main algorithms of which the implementation will be added to the repository are as follows-<br/>
 1. Vanilla Policy Gradient- Done
 2. DQN- Done
-3. A2C
+3. A2C- Done
 4. PPO
 5. DDPG
 
